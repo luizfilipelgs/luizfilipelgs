@@ -1,16 +1,50 @@
-### Hi there 👋
+## Olá, Meu nome é Luiz Filipe 👋
+### Um pouco sobre mim:
 
-<!--
-**luizfilipelgs/luizfilipelgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+   <ul>
+    <li>Sou de <strong>Maceió/AL</strong> 🏖️ 
+      <li>Estudante de <strong>Desenvolvimento Web</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a>
+       <li>Esp. <strong>Gestão e Planejamento Estratégico Empresarial</strong> :mortar_board: | <a href="http://www.uneal.edu.br/">UNEAL</a>
+      <li>Graduado em <strong>Engenharia Mecatrônica</strong> :robot: | <a href="https://www.unit.br/">Unit</a>
+   
+   </ul>
+   <p>Clique 
+      <a href="https://luizfilipelgs.github.io/Portfolio/#hs"           target="_blank">
+         aqui
+      </a>
+      para ver meu porfólio web!
+   </p>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<div align="center">
+  <a href="https://github.com/luizfilipelgs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfilipelgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipelgs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br>
+  
+  ## Skills
+  <div align="center" style="display: inline-block"><br>
+     <img align="center" alt="Js" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <hr>
+    
+ <img align="center" alt="GIT" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="GITHUB" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+ <img align="center" alt="HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+ <img align="center" alt="CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  </div>
+  
+  ## Contato
+ 
+<div align="center"> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luizfilipelgs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/luizfilipelgs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+   <a href="https://www.instagram.com/filipe.de.lima_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+ </div>
+ 
+ <p align="center"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Snake animation](https://github.com/luizfilipelgs/luizfilipelgs/blob/output/github-contribution-grid-snake.svg)
+ </p>

@@ -1,7 +1,9 @@
 ## Olá, Meu nome é Luiz Filipe 👋
+
+<img align="right" width="220" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611402939939b6a081028f0aa7fd39ede3f61ecd35b&rid=giphy.gif&ct=g"/>
+
 ### Um pouco sobre mim:
 
-<img align="right" width="180" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611402939939b6a081028f0aa7fd39ede3f61ecd35b&rid=giphy.gif&ct=g"/>
 
 <br>
 <div>
@@ -20,6 +22,7 @@
    </p>
 </div>
 
+<br>
 <br>
 <div align="center">
   <a href="https://github.com/luizfilipelgs">

@@ -1,13 +1,16 @@
 ## Olá, Meu nome é Luiz Filipe 👋
 ### Um pouco sobre mim:
 
+<img align="right" width="180" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611402939939b6a081028f0aa7fd39ede3f61ecd35b&rid=giphy.gif&ct=g"/>
+
+<br>
 <div>
    <ul>
     <li>Sou de <strong>Maceió/AL</strong> 🏖️ 
       <li>Estudante de <strong>Desenvolvimento Web</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a>
        <li>Esp. <strong>Gestão e Planejamento Estratégico Empresarial</strong> :mortar_board: | <a href="http://www.uneal.edu.br/">UNEAL</a>
       <li>Graduado em <strong>Engenharia Mecatrônica</strong> :robot: | <a href="https://www.unit.br/">Unit</a>
-   
+ 
    </ul>
    <p>Clique 
       <a href="https://luizfilipelgs.github.io/Portfolio/#hs"           target="_blank">

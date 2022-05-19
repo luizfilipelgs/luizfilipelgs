@@ -1,9 +1,8 @@
 ## Olá, Meu nome é Luiz Filipe 👋
 
-<img align="right" width="220" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611402939939b6a081028f0aa7fd39ede3f61ecd35b&rid=giphy.gif&ct=g"/>
 
 ### Um pouco sobre mim:
-
+<img align="center" width="200" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611402939939b6a081028f0aa7fd39ede3f61ecd35b&rid=giphy.gif&ct=g"/>
 
 <br>
 <div>
@@ -21,6 +20,8 @@
       para ver meu porfólio web!
    </p>
 </div>
+
+
 
 <br>
 <br>

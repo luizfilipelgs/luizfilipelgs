@@ -39,7 +39,7 @@
 		 Minhas Soft Skills 
 		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
 	<h3>
-	<h4 align="center">Resiliência, Comunicação, Trabalho em Equipe, Criatividade e Inovação, Autoconhecimento <h4>
+	<h4 align="center">Resiliência, Comunicação, Trabalho em Equipe, Criatividade e Inovação, Autoconhecimento, Organização <h4>
 </div>
 <br>
   

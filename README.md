@@ -20,10 +20,11 @@
       para ver meu porfólio web!
    </p>
 </div>
-
-
-
 <br>
+<div align="center">
+  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipelgs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<hr>
 <br>
 <div align="center">
   <a href="https://github.com/luizfilipelgs">

@@ -67,11 +67,3 @@
 
   ![Snake animation](https://github.com/luizfilipelgs/luizfilipelgs/blob/output/github-contribution-grid-snake.svg)
  </p>
-   
-## 
-<div align="center">
-	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-		<img src="https://komarev.com/ghpvc/?username=luizfilipelgs">
-	</a>
-	<a href="https://github.com/luizfilipelgs?tab=followers"><img src="https://img.shields.io/github/followers/luizfilipelgs?label=Followers&style=social" 			alt="GitHub Badge"></a>
-</div> 

@@ -65,7 +65,7 @@
  </div>
    <hr>
  
- <p align="center"> 
+ <!-- <p align="center"> 
 
   ![Snake animation](https://github.com/luizfilipelgs/luizfilipelgs/blob/output/github-contribution-grid-snake.svg)
- </p>
+ </p> -->

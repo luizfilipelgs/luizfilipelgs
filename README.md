@@ -54,7 +54,7 @@
  <img align="center" alt="DOCKER" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
  <img align="center" alt="MYSQL" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="NODE" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- <img align="center" alt="MOCHA" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+ <!--<img align="center" alt="MOCHA" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />-->
   </div>
  
   ## Contatos:

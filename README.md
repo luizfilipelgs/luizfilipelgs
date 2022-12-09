@@ -8,7 +8,7 @@
 <div>
    <ul>
     <li>Sou de <strong>Maceió/AL</strong> 🏖️ 
-    <li>Atualmente estou aprendendo <strong>TypeScript, POO, MongoDB</strong> 🌱
+    <li>Atualmente estou aprendendo <strong>Sequelize, TypeScript, POO, MongoDB</strong> 🌱
     <li>Estudante no <strong> Curso Superior de Tecnologia em banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a>
     <li>Estudante de <strong>Desenvolvimento Web Fullstack</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a>
     <li>Pós-graduado em <strong>Gestão e Planejamento Estratégico Empresarial</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a>
@@ -30,19 +30,19 @@
 <br>
 <div align="center">
   <a href="https://github.com/luizfilipelgs">
-   
-<div>
+</div>  
+ <!-- <div>
 	<h3 align="center">
 		<img src="https://cdn-icons-png.flaticon.com/512/3062/3062533.png" width="50px" height="50px">
 		 Minhas Soft Skills 
 		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
 	<h3>
 	<h4 align="center">Pensamento analítico, Resiliência, Comunicação, Trabalho em Equipe, Adaptabilidade, Autoconhecimento. <h4>
-</div>
+</div> -->
 <br>
   
   ## Languages and Tools:
-  <div align="center" style="display: inline-block"><br>
+  <div align="left" style="display: inline-block"><br>
      <img align="center" alt="Js" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <hr>
     
@@ -55,8 +55,10 @@
  <img align="center" alt="DOCKER" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
  <img align="center" alt="MYSQL" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="NODE" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img align="center" alt="EXPRESS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+ <!--<img align="center" alt="SEQUELIZE" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />-->	    
  <!--<img align="center" alt="MOCHA" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />-->
-  </div>
+  
  
   ## Contatos:
  

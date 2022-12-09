@@ -11,7 +11,7 @@
     <li>Atualmente estou aprendendo <strong>TypeScript, POO, MongoDB</strong> 🌱
     <li>Estudante no <strong> Curso Superior de Tecnologia em banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a>
     <li>Estudante de <strong>Desenvolvimento Web Fullstack</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a>
-    <li>Esp. <strong>Gestão e Planejamento Estratégico Empresarial</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a>
+    <li>Pós-graduado em <strong>Gestão e Planejamento Estratégico Empresarial</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a>
     <li>Graduado em <strong>Engenharia Mecatrônica</strong> :robot: | <a href="https://www.unit.br/">Unit</a>
      
    </ul>
@@ -37,7 +37,7 @@
 		 Minhas Soft Skills 
 		<img src="https://blog.peoplefirstps.com/hubfs/226%20-%20Data.png" width="50px" height="50px">
 	<h3>
-	<h4 align="center">Resiliência, Comunicação, Trabalho em Equipe, Adaptabilidade, Autoconhecimento, Organização. <h4>
+	<h4 align="center">Pensamento analítico, Resiliência, Comunicação, Trabalho em Equipe, Adaptabilidade, Autoconhecimento. <h4>
 </div>
 <br>
   

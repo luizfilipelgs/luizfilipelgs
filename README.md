@@ -15,12 +15,12 @@
     <li>Graduado em <strong>Engenharia Mecatrônica</strong> :robot: | <a href="https://www.unit.br/">Unit</a>
      
    </ul>
-   <p>Clique 
+   <!-- <p>Clique 
       <a href="https://luizfilipelgs.github.io/Portfolio/#hs"           target="_blank">
          aqui
       </a>
       para ver meu porfólio web!
-   </p>
+   </p>-->
 </div>
 <br>
 <hr>

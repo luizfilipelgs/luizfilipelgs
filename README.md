@@ -8,7 +8,7 @@
 <div>
    <ul>
     <li>Sou de <strong>Maceió/AL</strong> 🏖️ 
-    <li>Atualmente estou aprendendo <strong>POO,SOLID e MongoDB</strong> 🌱
+    <li>Atualmente estou aprendendo <strong>POO,SOLID, Atomic Design</strong> 🌱
     <li>Estudante no <strong> Curso Superior de Tecnologia em Banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a>
     <li>Estudante de <strong>Desenvolvimento Web Fullstack</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a>
     <li>Pós-graduado em <strong>Gestão e Planejamento Estratégico Empresarial</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a>
@@ -54,15 +54,15 @@
  <img align="center" alt="HTML" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">  
  <img align="center" alt="CSS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">  
  <img align="center" alt="GIT" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
- <img align="center" alt="JEST" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> 
+ <img align="center" alt="JEST" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+ <img align="center" alt="NODE" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
+ <img align="center" alt="EXPRESS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
  <img align="center" alt="DOCKER" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  
- <img align="center" alt="MYSQL" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
- <img align="center" alt="NODE" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />  
- <img align="center" alt="EXPRESS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />   
- <img align="center" alt="MONGODB" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 	  
-	  
- <!--<img align="center" alt="SEQUELIZE" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />-->	 
- <!--<img align="center" alt="MOCHA" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />-->
+ <img align="center" alt="MYSQL" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />     
+ <img align="center" alt="MONGODB" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />   
+ <img align="center" alt="SEQUELIZE" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> 	 
+ <img align="center" alt="MOCHA" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+	  <!-- -->
   
  
   ## Contatos:

@@ -25,14 +25,14 @@
 </div>
 <br>
 <hr>
+
 <div align="center">
-  <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipelgs&layout=compact&langs_count=7&theme=dracula"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipelgs&layout=compact&langs_count=8&theme=github"/>
+  <img width=376 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfilipelgs&theme=github&utcOffset=-3"/>
+  
 </div>
 
 <br>
-<div align="center">
-  <a href="https://github.com/luizfilipelgs">
-</div>  
 	
  <!-- <div>
 	<h3 align="center">
@@ -64,17 +64,17 @@
  <img align="center" alt="SEQUELIZE" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> 	 
  <img align="center" alt="MOCHA" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 	  <!-- -->
-  
+ <hr>  
+
  
   ## Contatos:
  
-<div align="center"> 
+<div align="left" style="display: inline-block"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luizfilipelgs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/luizfilipelgs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
  </div>
    <hr>
  
- <!-- <p align="center"> 
 
-  ![Snake animation](https://github.com/luizfilipelgs/luizfilipelgs/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/luizfilipelgs/luizfilipelgs/blob/output/github-contribution-grid-snake.svg)
  </p> -->

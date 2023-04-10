@@ -27,8 +27,8 @@
 <hr>
 
 <div align="center">
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipelgs&layout=compact&langs_count=8&theme=github"/>
-  <img width=376 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfilipelgs&theme=github&utcOffset=-3"/>
+  <img width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipelgs&layout=compact&langs_count=8&theme=github"/>
+  <img width=45% src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfilipelgs&theme=github&utcOffset=-3"/>
   
 </div>
 

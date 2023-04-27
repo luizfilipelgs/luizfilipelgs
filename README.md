@@ -46,8 +46,9 @@
   
   ## Languages and Tools:
   <div align="left" style="display: inline-block"><br>
-     <img align="center" alt="JS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+     <img align="center" alt="JS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      <img align="center" alt="TS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+     <img align="center" alt="Python" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <hr>
     
  <img align="center" alt="REACT" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">  
@@ -63,6 +64,7 @@
  <img align="center" alt="MONGODB" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />   
  <img align="center" alt="SEQUELIZE" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> 	 
  <img align="center" alt="MOCHA" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+ <img align="center" alt="Pytest" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
 	  <!-- -->
  <hr>  
 

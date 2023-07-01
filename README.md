@@ -10,7 +10,7 @@
    <ul>
     <li>Sou de <strong>Maceió/AL</strong> 🏖️ 
 	  <li><strong>Desenvolvedor Front-End 🏢  </strong> | <a href="https://somosfec.org.br/quem-somos/">FEC</a>
-    <li>Atualmente estou aprendendo <strong> NextJS, MUI, Tailwind </strong> 🌱
+    <li>Atualmente estou aprendendo <strong> NextJS, C++, Qt Creator </strong> 🌱
     <li>Graduando em <strong> Banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a>
     <li>Formado em <strong>Desenvolvimento Web Fullstack</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a>
     <li>Pós-graduado em <strong>Gestão e Planejamento Estratégico Empresarial</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a>

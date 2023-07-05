@@ -1,7 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=00f&background=fff&vCenter=true&width=1200&height=60&lines=%F0%9F%91%8B+Olá,+Meu+nome+é+Luiz+Filipe,+Sou+Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
-<div style="display: flex;">
-  <img align="right" width="250" src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611402939939b6a081028f0aa7fd39ede3f61ecd35b&rid=giphy.gif&ct=g"/>
 
   <div>
     <h3>Um pouco sobre mim:</h3>
@@ -16,7 +14,7 @@
       <li>Graduado em <strong>Engenharia Mecatrônica</strong> :robot: | <a href="https://www.unit.br/">Unit</a></li>
     </ul>
   </div>
-</div>
+
 
 
   <!-- <p>Clique 

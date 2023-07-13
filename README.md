@@ -32,71 +32,57 @@
 </div>
 
 <br>
-	
-<br>
-  
-## Linguagens:
+
+<h2>Stacks</h2>
+ <h3>Linguagens:</h3>
 <div align="left" style="display: inline-block">
-  <br>
-  <img align="center" alt="JS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TS" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Python" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <hr>
+  <img align="center" alt="JS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Python" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-## Front-End:
+<h3>Front-End:</h3>
 <div align="left" style="display: inline-block">
-  <br>
- 	<img align="center" alt="REACT" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-	<img align="center" alt="NEXT" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-	<img align="center" alt="REDUX" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">  
+ 	<img align="center" alt="REACT" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+	<img align="center" alt="NEXT" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+	<img align="center" alt="REDUX" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">  
 	<!--<img align="center" alt="HTML" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">  
 	<img align="center" alt="CSS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">-->
-	<img align="center" alt="tailwindcss" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-	<img align="center" alt="MaterialUI" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-	<img align="center" alt="Figma" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
-  <hr>
-
+	<img align="center" alt="tailwindcss" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+	<img align="center" alt="MaterialUI" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+	<img align="center" alt="Figma" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
 </div>
 
-## Back-End:
+<h3>Back-End:</h3>
 <div align="left" style="display: inline-block">
-  <br>
- 	<img align="center" alt="NODE" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
-	<img align="center" alt="EXPRESS" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
-	<img align="center" alt="Sequelize" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
-	<img align="center" alt="Prisma" width="120" src="https://cdn.cookielaw.org/logos/028e799e-5bb4-4f89-9ce8-1718d42d344c/22c2e2c0-3df0-4958-8672-1194370ee230/542a9b3e-88eb-4f84-95fd-b19e01352169/Logo-Prisma.png" />
-	
-  <hr>
+ 	<img align="center" alt="NODE" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+	<img align="center" alt="EXPRESS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+	<img align="center" alt="Sequelize" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+	<img align="center" alt="Prisma" height="50px" width="50px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />
 </div>
 
-## Banco de Dados:
+<h3>Banco de Dados:</h3>
 <div align="left" style="display: inline-block">
-  <br>
- 	<img align="center" alt="MySQL" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
-	<img align="center" alt="MongoDB" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-	<img align="center" alt="SQLite" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-	<img align="center" alt="ORACLE" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
-  <hr>
+ 	<img align="center" alt="MySQL" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
+	<img align="center" alt="MongoDB" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+	<img align="center" alt="SQLite" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+	<img align="center" alt="ORACLE" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
 </div>
 
-## Testes:
+<h3>Testes:</h3>
 <div align="left" style="display: inline-block">
-  <br>
- 	<img align="center" alt="JEST" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-	<img align="center" alt="Mocha" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-	<img align="center" alt="Pytest" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
-  <hr>
+ 	<img align="center" alt="JEST" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+	<img align="center" alt="Mocha" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+	<img align="center" alt="Pytest" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
 </div>
 
-## Outros:
+<h3>Outros:</h3>
 <div align="left" style="display: inline-block">
-  <br>
- 	<img align="center" alt="Git" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">  
-	<img align="center" alt="Docker" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  
-  <hr>
+ 	<img align="center" alt="Git" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">  
+	<img align="center" alt="Docker" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  
 </div>
-
+ <hr>
+ 
  ## Contatos:
  
 <div align="left" style="display: inline-block"> 

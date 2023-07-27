@@ -60,6 +60,7 @@
 	<img align="center" alt="EXPRESS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
 	<img align="center" alt="Sequelize" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 	<img align="center" alt="Prisma" height="50px" width="50px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />
+	
 </div>
 
 <h3>Banco de Dados:</h3>
@@ -67,7 +68,9 @@
  	<img align="center" alt="MySQL" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
 	<img align="center" alt="MongoDB" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 	<img align="center" alt="SQLite" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-	<img align="center" alt="ORACLE" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
+	<img align="center" alt="ORACLE" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+	<img align="center" alt="Postgresql" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+	
 </div>
 
 <h3>Testes:</h3>

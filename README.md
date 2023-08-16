@@ -57,7 +57,7 @@
 <h3>Back-End:</h3>
 <div align="left" style="display: inline-block">
  	<img align="center" alt="NODE" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-	<img align="center" alt="NODE" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> 
+	<!--<img align="center" alt="Django" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> -->
 	<img align="center" alt="EXPRESS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
 	<img align="center" alt="Sequelize" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 	<img align="center" alt="Prisma" height="50px" width="50px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />

@@ -61,6 +61,8 @@
 	<img align="center" alt="EXPRESS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
 	<img align="center" alt="Sequelize" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 	<img align="center" alt="Prisma" height="50px" width="50px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />
+	<img align="center" alt="Prisma" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+
 	
 </div>
 
@@ -84,7 +86,11 @@
 <h3>Outros:</h3>
 <div align="left" style="display: inline-block">
  	<img align="center" alt="Git" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">  
-	<img align="center" alt="Docker" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />  
+	<img align="center" alt="Docker" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+	<img align="center" alt="Jira" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+	<img align="center" alt="eslint" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
+
+	
 </div>
  <hr>
  

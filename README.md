@@ -15,7 +15,7 @@
     </ul>
   </div>
 
-Clique [aqui](https://www.canva.com/design/) para ver o meu currículo!
+Clique [aqui](https://www.canva.com/design/DAF2BQ1WzBg/bLEFxMlE2y3yGAv1CzY2bw/view?utm_content=DAF2BQ1WzBg&utm_campaign=designshare&utm_medium=link&utm_source=editor) para ver o meu currículo!
 
   <!-- <p>Clique 
       <a href="https://luizfilipelgs.github.io/Portfolio/#hs"           target="_blank">

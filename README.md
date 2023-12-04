@@ -1,12 +1,12 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=00f&background=fff&vCenter=true&width=1200&height=60&lines=%F0%9F%91%8B+Olá,+Meu+nome+é+Luiz+Filipe,+Sou+Engenheiro+de+Software)](https://git.io/typing-svg)
-
-
+ 
   <div>
+		<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
     <h3>Um pouco sobre mim:</h3>
     <br>
     <ul>
-      <li>Sou de <strong>Maceió/AL</strong> 🏖️</li>
-      <li>Atualmente estou estudando <strong>Docker, AWS</strong> 🌱</li>
+      <li>Sou de Maceió/AL 🏖️, apaixonado por tecnologia, jogos e comida 😆  </li>
+      <li>Atualmente estou estudando <strong>Docker, AWS e Arquitetura de Software</strong> 🌱</li>
 	  <li>Pós-graduando em <strong>Engenharia de Software</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li>
       <li>Graduando em <strong>Banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a></li>
       <li>Formado em <strong>Desenvolvimento Web Fullstack</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a></li>
@@ -15,7 +15,7 @@
     </ul>
   </div>
 
-
+Clique [aqui](https://www.canva.com/design/) para ver o meu currículo!
 
   <!-- <p>Clique 
       <a href="https://luizfilipelgs.github.io/Portfolio/#hs"           target="_blank">
@@ -36,60 +36,41 @@
 <h2>Stacks</h2>
  <h3>Linguagens:</h3>
 <div align="left" style="display: inline-block">
-  <img align="center" alt="JS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Python" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <!--<img align="center" alt="C++" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> -->
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=js,ts,py" />
+	</a>
 </div>
 
 <h3>Front-End:</h3>
 <div align="left" style="display: inline-block">
- 	<img align="center" alt="REACT" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-	<img align="center" alt="NEXT" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-	<img align="center" alt="REDUX" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">  
-	<!--<img align="center" alt="HTML" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">  
-	<img align="center" alt="CSS" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">-->
-	<img align="center" alt="tailwindcss" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-	<img align="center" alt="MaterialUI" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-	<img align="center" alt="Figma" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,redux,tailwindcss,materialui,figma" />
+  </a>
 </div>
 
 <h3>Back-End:</h3>
 <div align="left" style="display: inline-block">
- 	<img align="center" alt="NODE" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-	<!--<img align="center" alt="Django" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> -->
-	<img align="center" alt="EXPRESS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
-	<img align="center" alt="Sequelize" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-	<img align="center" alt="Prisma" height="50px" width="50px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />
-	<img align="center" alt="Prisma" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-
-	
+ 	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,nestjs" />
+	</a>
 </div>
 
 <h3>Banco de Dados:</h3>
 <div align="left" style="display: inline-block">
- 	<img align="center" alt="MySQL" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
-	<img align="center" alt="MongoDB" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-	<img align="center" alt="SQLite" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-	<img align="center" alt="ORACLE" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-	<img align="center" alt="Postgresql" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-	
-</div>
-
-<h3>Testes:</h3>
-<div align="left" style="display: inline-block">
- 	<img align="center" alt="JEST" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-	<img align="center" alt="Mocha" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-	<img align="center" alt="Pytest" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql" />
+  </a>
 </div>
 
 <h3>Outros:</h3>
 <div align="left" style="display: inline-block">
  	<img align="center" alt="Git" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">  
 	<img align="center" alt="Docker" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+	<img align="center" alt="JEST" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+	<img align="center" alt="Mocha" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+	<img align="center" alt="Pytest" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
 	<img align="center" alt="Jira" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 	<img align="center" alt="eslint" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
-
 	
 </div>
  <hr>

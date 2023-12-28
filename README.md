@@ -44,7 +44,7 @@ Clique [aqui](https://www.canva.com/design/DAF2BQ1WzBg/bLEFxMlE2y3yGAv1CzY2bw/vi
 <h3>Front-End:</h3>
 <div align="left" style="display: inline-block">
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,redux,tailwindcss,materialui,figma" />
+    <img src="https://skillicons.dev/icons?i=react,next,redux,tailwindcss,materialui,styledcomponents,figma" />
   </a>
 </div>
 

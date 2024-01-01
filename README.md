@@ -34,44 +34,52 @@ Clique [aqui](https://www.canva.com/design/DAF2BQ1WzBg/bLEFxMlE2y3yGAv1CzY2bw/vi
 <br>
 
 <h2>Stacks</h2>
- <h3>Linguagens:</h3>
+
+<h3>Linguagens:</h3>
 <div align="left" style="display: inline-block">
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=js,ts,py" />
-	</a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 <h3>Front-End:</h3>
 <div align="left" style="display: inline-block">
-	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,redux,tailwindcss,materialui,styledcomponents,figma" />
-  </a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 <h3>Back-End:</h3>
 <div align="left" style="display: inline-block">
- 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,nestjs,firebase" />
-	</a>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/sequelize-%2352B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
 <h3>Banco de Dados:</h3>
 <div align="left" style="display: inline-block">
-	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgresql" />
-  </a>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 <h3>Outros:</h3>
 <div align="left" style="display: inline-block">
- 	<img align="center" alt="Git" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">  
-	<img align="center" alt="Docker" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-	<img align="center" alt="JEST" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-	<img align="center" alt="Mocha" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-	<img align="center" alt="Pytest" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
-	<img align="center" alt="Jira" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-	<img align="center" alt="eslint" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
-	
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" />
 </div>
  <hr>
  

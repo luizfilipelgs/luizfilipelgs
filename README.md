@@ -6,7 +6,7 @@
     <br>
     <ul>
       <li>Sou de Maceió/AL 🏖️, apaixonado por tecnologia, jogos (online, tabuleiro, RPG de mesa) e comidas 😆  </li>
-      <li>Atualmente estou estudando <strong>Docker, Cloud e Arquitetura de Software</strong> 🌱</li>
+      <li>Atualmente estou estudando <strong>Docker, Cloud e CI/CD</strong> 🌱</li>
 	  <li>Pós-graduando em <strong>Engenharia de Software</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li>
       <li>Graduando em <strong>Banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a></li>
       <li>Formado em <strong>Desenvolvimento Web Fullstack</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a></li>
@@ -38,13 +38,14 @@ Clique [aqui](https://www.canva.com/design/DAF2BQ1WzBg/bLEFxMlE2y3yGAv1CzY2bw/vi
 <h3>Linguagens:</h3>
 <div align="left" style="display: inline-block">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
 <h3>Front-End:</h3>
 <div align="left" style="display: inline-block">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />

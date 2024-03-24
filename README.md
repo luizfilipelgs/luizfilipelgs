@@ -7,7 +7,7 @@
     <ul>
       <li>Sou de Maceió/AL 🏖️, apaixonado por tecnologia, jogos (online, tabuleiro, RPG de mesa) e Gastronomia 😆  </li>
       <li>Atualmente estou estudando <strong>Docker, Cloud e CI/CD</strong> 🌱</li>
-	  <li>Pós-graduando em <strong>MBA Engenharia de Software</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li>
+	  <li>Pós-graduado <strong>MBA Engenharia de Software</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li>
       <li>Graduando em <strong>Banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a></li>
       <li>Formado em <strong>Desenvolvimento Web Fullstack</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a></li>
       <li>Pós-graduado em <strong>Gestão e Planejamento Estratégico Empresarial</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a></li>

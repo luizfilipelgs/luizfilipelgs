@@ -62,15 +62,17 @@ Clique [aqui](https://www.canva.com/design/DAF2BQ1WzBg/bLEFxMlE2y3yGAv1CzY2bw/vi
   <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 </div>
 
-<h3>Banco de Dados:</h3>
+ <!--<h3>Banco de Dados:</h3>
 <div align="left" style="display: inline-block">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+</div> -->
 
 <h3>Outros:</h3>
 <div align="left" style="display: inline-block">

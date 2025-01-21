@@ -1,27 +1,21 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=00f&background=fff&vCenter=true&width=1200&height=60&lines=%F0%9F%91%8B+Olá,+Meu+nome+é+Luiz+Filipe,+Sou+Engenheiro+de+Software)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=00f&background=fff&vCenter=true&width=1200&height=60&lines=%F0%9F%91%8B+Hello,+My+name+is+Luiz+Filipe,+I+am+a+Software+Engineer)](https://git.io/typing-svg)
  
   <div>
-		<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-    <h3>Um pouco sobre mim:</h3>
-    <br>
-    <ul>
-      <li>Sou de Maceió/AL 🏖️, apaixonado por tecnologia, jogos (online, tabuleiro, RPG de mesa) e apreciador de boa gastronomia 😆 </li>
-      <li>Atualmente estou estudando <strong> Django, WebSocket e WebRTC </strong> 🌱</li>
-	  <li>Pós-graduado <strong>MBA Engenharia de Software</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li>
-      <li>Graduando em <strong>Banco de Dados</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a></li>
-      <li>Pós-graduado em <strong>Gestão e Planejamento Estratégico Empresarial</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a></li>
-      <li>Graduado em <strong>Engenharia Mecatrônica</strong> :robot: | <a href="https://www.unit.br/">Unit</a></li>
-    </ul>
+	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+    <h3>A little about me:</h3> 
+	<br> 
+	<ul> 	
+		<li>I’m from Maceió/AL 🏖️, passionate about technology, games (online, board games, tabletop RPGs), and a fan of good cuisine 😆</li> 
+		<li>Currently studying <strong>Django, WebSocket, and WebRTC</strong> 🌱</li> 
+		<li>Postgraduate in <strong>MBA in Software Engineering</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li> 
+		<li>Undergraduate student in <strong>Database Management</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a></li> 
+		<li>Postgraduate in <strong>Strategic Business Management and Planning</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a></li> 
+		<li>Graduated in <strong>Mechatronics Engineering</strong> :robot: | <a href="https://www.unit.br/">Unit</a></li> 
+	</ul>
   </div>
 
-Clique [aqui](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/view?usp=sharing) para ver o meu currículo!
+Click [here](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/view?usp=sharing) to view my resume!
 
-  <!-- <p>Clique 
-      <a href="https://luizfilipelgs.github.io/Portfolio/#hs"           target="_blank">
-         aqui
-      </a>
-      para ver meu porfólio web!
-   </p>-->
 <br>
 <hr>
 
@@ -34,11 +28,12 @@ Clique [aqui](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/
 
 <h2>Stacks</h2>
 
-<h3>Linguagens:</h3>
+<h3>Languages::</h3>
 <div align="left" style="display: inline-block">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
 <h3>Front-End:</h3>
@@ -59,6 +54,7 @@ Clique [aqui](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/
   <img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 	<img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
 	<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 	<img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/sequelize-%2352B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
@@ -68,7 +64,7 @@ Clique [aqui](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/
 
 </div>
 
- <!--<h3>Banco de Dados:</h3>
+ <!--<h3>Databases:</h3>
 <div align="left" style="display: inline-block">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -76,7 +72,7 @@ Clique [aqui](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div> -->
 
-<h3>Outros:</h3>
+<h3>Others:</h3>
 <div align="left" style="display: inline-block">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -88,7 +84,7 @@ Clique [aqui](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/
 </div>
  <hr>
  
- ## Contatos:
+ ## Contact:
  
 <div align="left" style="display: inline-block"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luizfilipelgs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

@@ -7,7 +7,7 @@
 	<ul> 	
 		<li>I’m from Maceió/AL 🏖️, passionate about technology, games (online, board games, tabletop RPGs), and a fan of good cuisine 😆</li> 
 		<li>Currently studying <strong>Django, WebSocket, and WebRTC</strong> 🌱</li> 
-		<li>Postgraduate in <strong>MBA in Software Engineering</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li> 
+		<li>Postgraduate in <strong>Software Engineering</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li> 
 		<li>Undergraduate student in <strong>Database Management</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a></li> 
 		<li>Postgraduate in <strong>Strategic Business Management and Planning</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a></li> 
 		<li>Graduated in <strong>Mechatronics Engineering</strong> :robot: | <a href="https://www.unit.br/">Unit</a></li> 

@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=00f&background=fff&vCenter=true&width=1200&height=60&lines=%F0%9F%91%8B+Hello,+My+name+is+Luiz+Filipe,+I+am+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=092BF7&width=1200&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
  
   <div>
 	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">

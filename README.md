@@ -6,7 +6,7 @@
 	<br> 
 	<ul> 	
 		<li>I’m from Maceió/AL 🏖️, passionate about technology, games (online, board games, tabletop RPGs), and a fan of good cuisine 😆</li> 
-		<li>Currently studying <strong>Django, WebSocket, and OpenCV</strong> 🌱</li> 
+		<!-- <li>Currently studying <strong>Django, WebSocket, and OpenCV</strong> 🌱</li>  -->
 		<li>Postgraduate in <strong>Software Engineering</strong> :computer: | <a href="https://faculdademetropolitana.edu.br/">FAMEESP</a></li> 
 		<li>Undergraduate student in <strong>Database Management</strong> 🗄️ | <a href="https://www.xpeducacao.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=awareness_home_xpe&utm_term=29082022&utm_content=marcaxpe&gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qhEMBIZzLxoSYn65MFUMYbEkcG63bIYj-YKTmCMCeX_ReR7LqpkmQ0aAhRUEALw_wcB">XP Educação</a></li> 
 		<li>Postgraduate in <strong>Strategic Business Management and Planning</strong> 📈 | <a href="http://www.uneal.edu.br/">UNEAL</a></li> 
@@ -33,7 +33,7 @@ Click [here](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/v
   	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+	<!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" /> -->
 </div>
 
 <h3>Front-End:</h3>

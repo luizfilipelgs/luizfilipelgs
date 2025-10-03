@@ -14,7 +14,7 @@
 	</ul>
   </div>
 
-Click [here](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/view?usp=sharing) to view my resume!
+<!-- Click [here](https://drive.google.com/file/d/1ZcPIxUQlnnAGc2-egup5MpP0KC7gvmZn/view?usp=sharing) to view my resume!-->
 
 <br>
 <hr>

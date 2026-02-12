@@ -19,10 +19,12 @@
 <br>
 <hr>
 
+<!--
 <div align="center">
   <img width=42%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipelgs&layout=compact&langs_count=10&theme=github"/>
   <img width=51% src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizfilipelgs&theme=github&utcOffset=-3"/>
 </div>
+!-->
 
 <br>
 
